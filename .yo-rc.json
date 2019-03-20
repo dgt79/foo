@@ -1,0 +1,42 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "Foo",
+    "packageName": "io.github.foo",
+    "packageFolder": "io/github/foo",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "oracle",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "de",
+      "en"
+    ],
+    "clientFramework": "react",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.8.2",
+    "jwtSecretKey": "MWMxZTIxN2ExY2IxMjY4MGRkYzViZTViMzVmYzg0NDllOGMzMWQxNDFmYTRiZDc4NTg3M2QwNmQwYjk1MzE5Yjg3MjIyMGU1N2JjNmM2NzhmNTY2MDAyOGI4MWI3ZmM4Zjk0YjI1OWM1YWMxNGFlNTI1NDAwOTA1NGE3ZTA3YzY=",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "dgt79",
+  "repository-name": "foo"
+}
