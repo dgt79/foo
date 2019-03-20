@@ -1,3 +1,5 @@
+https://developer.okta.com/blog/2018/07/19/simple-crud-react-and-spring-boot
+
 # Foo
 
 This application was generated using JHipster 5.8.2, you can find documentation and help at [https://www.jhipster.tech/documentation-archive/v5.8.2](https://www.jhipster.tech/documentation-archive/v5.8.2).
